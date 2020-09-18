@@ -13,9 +13,22 @@ for a list of what is included.
   - FiPy
   - GPy
 
+  - L01
+  - L04
+  - G01
+  - W01
+
+  - PyEthernet
+
 ## PCB footprints
  - LoPy/LoPy4/SiPy/GPy/FiPy with headers
  - LoPy/LoPy4/SiPy/GPy/FiPy without headers
  - WiPy 2.0/3.0 with headers
  - WiPy 2.0/3.0 without headers
+
  - L01
+ - L04
+ - G01
+ - W01
+
+ - PyEthernet
