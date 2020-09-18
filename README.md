@@ -12,23 +12,27 @@ for a list of what is included.
   - WiPy 3.0
   - FiPy
   - GPy
-
+---
   - L01
   - L04
   - G01
   - W01
-
+  - UniversalOEM
+---
   - PyEthernet
 
 ## PCB footprints
- - LoPy/LoPy4/SiPy/GPy/FiPy with headers
- - LoPy/LoPy4/SiPy/GPy/FiPy without headers
- - WiPy 2.0/3.0 with headers
- - WiPy 2.0/3.0 without headers
-
+ - xxPy without headers
+ - xxPy with THT headers
+ - xxPy with SMD headers
+ - WiPy without headers
+ - WiPy with THT headers
+ - WiPy with SMD headers
+---
  - L01
  - L04
  - G01
  - W01
-
+ - UniversalOEM
+---
  - PyEthernet
